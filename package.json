@@ -6,17 +6,9 @@
   "scripts": {
     "build": "webpack"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/chiarastef/book-finder.git"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/chiarastef/book-finder/issues"
-  },
-  "homepage": "https://github.com/chiarastef/book-finder#readme",
+  
+  
+ 
   "devDependencies": {
     "css-loader": "^6.7.1",
     "html-webpack-plugin": "^5.5.0",
